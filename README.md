@@ -14,4 +14,10 @@ install it by following above page guidence
 
 Command - composer global require laravel/installer
 
+#4 use command - php artisan serve
+
+to view your http://127.0.0.1:8000/
+and run in your browser
+
+#5 Then Try Localhost:....../PAF//Lavravel/public
 
